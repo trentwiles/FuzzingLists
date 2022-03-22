@@ -1,0 +1,2 @@
+cdn-cgi/trace
+cdn-cgi/l/email-protection
