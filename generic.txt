@@ -42,3 +42,6 @@ site/
 config.php
 wp-config.php
 wp-config.php.bak
+xmlrpc.php
+go/
+code/
