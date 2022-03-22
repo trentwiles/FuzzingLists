@@ -1,0 +1,5 @@
+index.php
+info.php
+phpinfo.php
+index.php/Home
+index.php/Wiki
