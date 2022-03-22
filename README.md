@@ -1,2 +1,2 @@
 # FuzzingLists
-Lists to use in fuzzing software
+Basic lists to use in fuzzing software
