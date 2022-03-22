@@ -36,3 +36,9 @@ static/
 Makefile
 .gitignore
 sitemap.xml
+administrator/
+site/
+.htaccess
+config.php
+wp-config.php
+wp-config.php.bak
